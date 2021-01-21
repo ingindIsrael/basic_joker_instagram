@@ -1,0 +1,92 @@
+#fondo {
+    background-color: white;
+
+}
+body {
+    width: 400px;
+   background-color: black;
+    margin: 300px;
+    margin-top: 50px;
+
+}
+
+
+.image_area img {
+     width: 400px;
+     height: 300px;
+}
+.header_area {
+    display: flex;
+    margin: 0px;
+    padding: 0px;
+    height: 50px;
+    width: 400px;
+}
+#icono {
+float: left;
+width: 50px;
+height: 50px;
+
+
+}
+
+.fas.fa-crown {
+    margin: 10px;
+    margin-top: 12px;
+}
+
+#icono i {
+   width: 20px;
+}
+#nombres {
+width: 300px;
+height: 50px;
+text-size-adjust: auto;
+}
+
+#nombres h1 {
+padding: 0px;
+margin: 0 auto;
+margin-top: 5px;
+font-size: 85%;
+}
+
+#nombres h2 {
+padding: 0px;
+margin: 0 auto;
+font-size: 60%;
+}
+
+#menu {
+
+width: 50px;
+height: 50px;
+}
+
+.fas.fa-ellipsis-v {
+margin: 15px;
+margin-left: 30px;
+}
+
+.footer_area {
+margin: 10px;
+padding: 10px;
+text-align: justify;
+font-size: xx-small;
+}
+#foot_icons {
+    font-size: large;
+}
+/*.far.fa-heart {
+    size: 50px;
+}
+.far.fa-comment {
+size: 50px;
+}
+.far.fa-paper-plane {
+size: 50px;
+}*/
+.far.fa-bookmark {
+    size: 50px;
+    float: right;
+}
